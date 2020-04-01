@@ -5,7 +5,7 @@ using System.Net.Http;
 using Newtonsoft.Json;
 using NationalCities.Models;
 
-namespace NationalRenewable.APIHandlerManager
+namespace NationalCities.APIHandlerManager
 {
   public class APIHandler
   {
